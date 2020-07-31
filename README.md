@@ -14,4 +14,5 @@ Our app also has the collection function of the sports arena. You can add your f
 We can also use our app to record the score and share the score at that time when playing in the arena.
 
 Use QuiJiTiYu, book a good arena and easily record the score!
+
 If you have any questions, please contact us as follows :vjsey316567@sina.com
