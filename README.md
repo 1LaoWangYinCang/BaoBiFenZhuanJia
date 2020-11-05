@@ -1,18 +1,13 @@
-# QuiJiTiYu
-QuiJiTiYu is an app for booking various sports stadiums and courts and recording game scores. Our sports arena environment is clean and tidy, professional sports facilities. You can book the most satisfying sports arena in our app. At the same time, you can also use our app to record the score and record the match at that time when playing in the arena.
+# BaoBiFenZhuanJia
 
-Our app is dedicated to promoting professional and comfortable sports arenas, so that people can book sports arenas they like in an efficient and high-quality way in their daily life.
+BaoBiFenZhuanJia is committed to promoting archery athletic equipment, so that people can purchase professional archery athletic equipment efficiently and high-quality in their daily life, and at the same time can easily record the situation and results of field competitions.
 
-Our app shows a variety of sports arenas, including badminton arena, football field, basketball arena, tennis arena, popular arena and other sports arena. These full range of sports arenas can meet the user's selection and reservation.
+Our app shows a full range of archery equipment, including competitive bow and arrow, professional bow bag and quiver, archery training equipment, archery protective gear and other archery equipment. These categories of complete archery equipment can meet the user's selection and procurement.
 
-Our app categorizes these stadiums in great detail to help users quickly find the stadiums they want to book.
+Our app has classified these archery sports equipment in great detail, which helps users to quickly find the sports equipment they want to buy. Each product is also described in detail, so that you can fully understand these products, find your favorite archery equipment, convenient for you to buy and place orders.
 
-Our app will introduce each stadium in detail, so that you can fully understand these stadiums, find the stadiums you like, so that you can make reservations and place orders.
+Our app also has a live score recording function. You can record the score and details of a live match, record every archery match you like, record the mood and feeling of the match at that time, and share the result and record of the match to others.
 
-Our app also has the collection function of the sports arena. You can add your favorite sports arena to the list for your next browsing and ordering.
+God shot the world, bowstring words arrow heart!
 
-We can also use our app to record the score and share the score at that time when playing in the arena.
-
-Use QuiJiTiYu, book a good arena and easily record the score!
-
-If you have any questions, please contact us as follows :vjsey316567@sina.com
+If you have any questions, please contact us as follows :hedj19931013@icloud.com
