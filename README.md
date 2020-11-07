@@ -1,6 +1,6 @@
-# BaoBiFenZhuanJia
+# JiBiFenDaKa
 
-BaoBiFenZhuanJia is committed to promoting archery athletic equipment, so that people can purchase professional archery athletic equipment efficiently and high-quality in their daily life, and at the same time can easily record the situation and results of field competitions.
+JiBiFenDaKa is committed to promoting archery athletic equipment, so that people can purchase professional archery athletic equipment efficiently and high-quality in their daily life, and at the same time can easily record the situation and results of field competitions.
 
 Our app shows a full range of archery equipment, including competitive bow and arrow, professional bow bag and quiver, archery training equipment, archery protective gear and other archery equipment. These categories of complete archery equipment can meet the user's selection and procurement.
 
