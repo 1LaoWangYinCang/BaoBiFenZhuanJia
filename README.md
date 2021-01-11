@@ -1,13 +1,13 @@
-# JiBiFenDaKa
+# Latest Digital Info Zone
 
-JiBiFenDaKa is committed to promoting archery athletic equipment, so that people can purchase professional archery athletic equipment efficiently and high-quality in their daily life, and at the same time can easily record the situation and results of field competitions.
+Latest Digital Info Zone is an app that allows people to get the latest news and information of digital currency in time. 
 
-Our app shows a full range of archery equipment, including competitive bow and arrow, professional bow bag and quiver, archery training equipment, archery protective gear and other archery equipment. These categories of complete archery equipment can meet the user's selection and procurement.
+-Our app contains the latest news, events, industry news, etc. We have all kinds of hot information. People can put forward their own opinions on these hot news information, share news information, collect valuable news and praise articles that you think are good.
 
-Our app has classified these archery sports equipment in great detail, which helps users to quickly find the sports equipment they want to buy. Each product is also described in detail, so that you can fully understand these products, find your favorite archery equipment, convenient for you to buy and place orders.
+-Our app provides market information of various digital currencies, so that people can better understand the market changes. At the same time, people can also express their opinions in the topic circle and exchange their views with others.
 
-Our app also has a live score recording function. You can record the score and details of a live match, record every archery match you like, record the mood and feeling of the match at that time, and share the result and record of the match to others.
+-Our app makes it easy for people to Book Lectures on digital currency, learn basic knowledge and consult relevant questions.
 
-God shot the world, bowstring words arrow heart!
+The latest digital currency news is here.
 
-If you have any questions, please contact us as follows :hedj19931013@icloud.com
+If you have any questions, please contact us as follows :petheandsjp@hotmail.com
